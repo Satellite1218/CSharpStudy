@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\C#stduy\bin\Debug\net6.0\C#stduy.exe
+C:\Users\Administrator\source\repos\C#stduy\bin\Debug\net6.0\C#stduy.deps.json
+C:\Users\Administrator\source\repos\C#stduy\bin\Debug\net6.0\C#stduy.runtimeconfig.json
+C:\Users\Administrator\source\repos\C#stduy\bin\Debug\net6.0\C#stduy.dll
+C:\Users\Administrator\source\repos\C#stduy\bin\Debug\net6.0\C#stduy.pdb
+C:\Users\Administrator\source\repos\C#stduy\obj\Debug\net6.0\C#stduy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\C#stduy\obj\Debug\net6.0\C#stduy.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\C#stduy\obj\Debug\net6.0\C#stduy.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\C#stduy\obj\Debug\net6.0\C#stduy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\C#stduy\obj\Debug\net6.0\C#stduy.dll
+C:\Users\Administrator\source\repos\C#stduy\obj\Debug\net6.0\refint\C#stduy.dll
+C:\Users\Administrator\source\repos\C#stduy\obj\Debug\net6.0\C#stduy.pdb
+C:\Users\Administrator\source\repos\C#stduy\obj\Debug\net6.0\C#stduy.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\C#stduy\obj\Debug\net6.0\ref\C#stduy.dll
