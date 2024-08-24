@@ -88,9 +88,10 @@ namespace TextRPG
                 running();
                 run();
             }
-            else if (userInput == 4)
+            else if (userInput == 5)
             {
                 player.PlayerShow();
+                slime.SlimeShow();
             }
         }
 
