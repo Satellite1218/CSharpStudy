@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = 코드_흐름_제어
-build_property.ProjectDir = C:\Users\Administrator\Downloads\CSharpStudy-master\코드_흐름_제어\
+build_property.ProjectDir = C:\Users\pc\Documents\GitHub\CSharpStudy\코드_흐름_제어\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

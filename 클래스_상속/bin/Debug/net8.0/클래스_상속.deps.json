@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "클래스_상속/1.0.0": {
+        "runtime": {
+          "클래스_상속.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "클래스_상속/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
